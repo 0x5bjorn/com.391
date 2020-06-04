@@ -1,0 +1,3 @@
+/home/tyto5/tyto/Courses/com.391/lab02/build/CMakeFiles/rebuild_cache.dir
+/home/tyto5/tyto/Courses/com.391/lab02/build/CMakeFiles/lab02.dir
+/home/tyto5/tyto/Courses/com.391/lab02/build/CMakeFiles/edit_cache.dir

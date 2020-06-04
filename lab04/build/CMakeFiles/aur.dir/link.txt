@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/aur.dir/main.cpp.o  -o aur -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW -lSDL2 

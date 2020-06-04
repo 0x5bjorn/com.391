@@ -1,0 +1,3 @@
+/home/tyto5/tyto/Courses/com.391/Project/aur/build/CMakeFiles/rebuild_cache.dir
+/home/tyto5/tyto/Courses/com.391/Project/aur/build/CMakeFiles/general_usage_test.dir
+/home/tyto5/tyto/Courses/com.391/Project/aur/build/CMakeFiles/edit_cache.dir

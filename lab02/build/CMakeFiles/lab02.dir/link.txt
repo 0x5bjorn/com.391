@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/lab02.dir/lab02.cpp.o  -o lab02 -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW -lSDL2 

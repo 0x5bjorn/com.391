@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tyto5/tyto/Courses/com.391/lab01/lab01.cpp
+GL/glew.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_opengl.h
+-
+
